@@ -1,10 +1,10 @@
 # Screenshots of the project
 
-![result](./screenshots/Screenshot0.png?raw=true)
-
 ![result](./screenshots/Screenshot2.png?raw=true)
 
 ![result](./screenshots/Screenshot1.png?raw=true)
+
+![result](./screenshots/Screenshot0.png?raw=true)
 
 # Getting Started with Create React App
 
